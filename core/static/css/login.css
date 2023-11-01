@@ -1,0 +1,10 @@
+
+    .container2 {
+        max-width: 400px; /* Ajusta el valor según tus preferencias */
+        margin: 0 auto; /* Centra el contenedor horizontalmente */
+    }
+
+    .login-button{
+        margin: 0 auto;
+        display: block;
+    }
